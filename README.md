@@ -11,7 +11,7 @@ Set OPENAI_API_KEY in your environment
 3. Step 3
 Add a pdf contract in data/ folder
 
-4. Step 4
+4. Step 4? Launch and start interacting :
 ```
 streamlit run main.py
 ```
